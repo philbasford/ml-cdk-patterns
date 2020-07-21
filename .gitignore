@@ -1,3 +1,8 @@
+*.swp
+package-lock.json
+.pytest_cache
+*.egg-info
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +132,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+# CDK Context & Staging files
+.cdk.staging/
+cdk.out/
