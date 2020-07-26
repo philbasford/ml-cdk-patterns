@@ -135,8 +135,5 @@ dmypy.json
 # CDK Context & Staging files
 .cdk.staging/
 cdk.out/
-<<<<<<< HEAD
-=======
 .vscode/
 .DS_STORE
->>>>>>> Intial SageMaker vpc endpoint
